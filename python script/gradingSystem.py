@@ -2,7 +2,7 @@
 """
 Created on Fri May 20 11:34:36 2022
 
-@author: "Doha ahmed"
+@author: "EhabCoder"
 """
 from csv import reader
 from math import sqrt
@@ -158,5 +158,5 @@ while(choice != 8):
             print('Sorry! No Students By This name have been found.')
         print('\n\n\n\n\n\n')
     else: 
-        input("Created by Doha Ahmed...")
+        input("Created by EhabCoder...")
         sys.exit("Tanks for using my program.")  
