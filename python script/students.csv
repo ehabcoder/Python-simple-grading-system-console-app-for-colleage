@@ -1,0 +1,1001 @@
+id,name,midterm_grade,classwok_grade
+1,Herman Bahringer,13,82
+2,Mrs. Ricardo Moen,9,2
+3,Wayne Wiegand,13,11
+4,Leon Leffler,22,92
+5,June Legros,18,5
+6,Mrs. Sandra Bartell,21,70
+7,Margaret Hilll,22,85
+8,Alfonso Bednar,12,97
+9,Dustin Stokes,4,62
+10,Lynn Lowe,9,63
+11,Herman VonRueden,12,8
+12,Roy Corkery PhD,16,94
+13,Philip Nitzsche,7,75
+14,Kristine Anderson,17,56
+15,Susie Herman,4,74
+16,Marshall Mayert,22,5
+17,Guy Koelpin,4,69
+18,Jackie O'Kon,10,34
+19,Winston Kshlerin,7,29
+20,Terry Miller Sr.,2,26
+21,Bradford Wyman,12,12
+22,Mr. Vivian Rogahn,5,62
+23,Misty Kuhlman,6,87
+24,Salvador Reinger,20,92
+25,Walter Lubowitz,7,46
+26,Duane Kertzmann,5,23
+27,Juana Littel,21,19
+28,Dr. Leah Buckridge,2,63
+29,Brent Kling,4,55
+30,Jeremy Schowalter,11,49
+31,Ella Grady,13,14
+32,Freddie Bartell Jr.,4,90
+33,Garrett Haley,19,45
+34,Mike Kassulke,3,65
+35,Gordon Leannon,8,90
+36,Allen Dickens,7,23
+37,Leo Howe III,2,73
+38,Eddie Jast,14,49
+39,Lela Wintheiser,18,42
+40,Ms. Lori Kuhn,16,57
+41,Kathryn Wolff,3,80
+42,Elijah Feest,17,62
+43,Vernon Kertzmann,6,71
+44,Eugene Fay,20,15
+45,Marjorie Streich,15,35
+46,Bernard White,16,30
+47,Ms. Kelli Gerlach,11,61
+48,Myra Goodwin,12,50
+49,Miss Claire Zboncak,15,24
+50,Dora Hamill,5,98
+51,Darren Hermiston,13,85
+52,Loretta Schaefer,5,51
+53,Jacob Kunde,19,95
+54,Adam Emmerich,11,18
+55,Gustavo Bechtelar IV,11,18
+56,Tyler Gleichner,20,91
+57,Angel Schiller,8,79
+58,Al Gulgowski,10,56
+59,Lamar Wunsch,6,99
+60,Willard Kemmer,2,76
+61,Silvia McGlynn,15,93
+62,Eric Raynor,19,64
+63,Brandi Rowe PhD,8,52
+64,Sharon Weber,5,57
+65,Olive Kerluke,12,6
+66,Jeremiah Leuschke,14,12
+67,Richard Wunsch,12,67
+68,Lindsay Gulgowski MD,19,40
+69,Angela Wisoky,18,56
+70,Miss Leticia Hermiston,13,12
+71,Cathy Mitchell,7,41
+72,Dr. Esther Nicolas,5,68
+73,Chelsea Medhurst,11,37
+74,Dale Dickinson,5,61
+75,Mattie Wilkinson,2,6
+76,Darla O'Kon,10,62
+77,Kenneth Altenwerth,8,61
+78,Guy Ritchie,5,12
+79,Mrs. Luz Yundt,3,8
+80,Jared Orn,12,46
+81,Eula Kozey,3,91
+82,Rene Weber,14,96
+83,Miss Steven Willms,3,5
+84,Ms. Aaron Collins,21,2
+85,Carl Pacocha,8,38
+86,Pat Jacobs DVM,6,10
+87,Wanda Veum,10,53
+88,Chester Weissnat,6,94
+89,Bertha Reinger,12,95
+90,Cristina Connelly,10,4
+91,Pearl Douglas,13,64
+92,Charlotte Nitzsche,12,68
+93,Christopher Gottlieb,2,78
+94,Taylor Goyette,13,32
+95,Jessie Corkery,7,86
+96,Mr. Marlon Kling,20,34
+97,Dale Sawayn,18,15
+98,Jenna Fay,8,45
+99,Ernest Stark,11,27
+100,Ms. Earnest Gorczany,15,60
+101,Jason Bechtelar,4,53
+102,Freddie Aufderhar,11,83
+103,Patti Huels,12,86
+104,Herman Kuphal,18,95
+105,Wilbert Homenick,20,46
+106,Lindsay Schaden,22,12
+107,Lola O'Conner,16,30
+108,Kristy Lakin,4,46
+109,Pam Armstrong PhD,2,90
+110,Miss Jeannette Hickle,7,75
+111,Darrel Runte,3,40
+112,Gerald Bauch V,20,26
+113,Wilbur Mohr,13,71
+114,Cheryl Sauer,14,32
+115,Bradley Larkin,21,39
+116,Miriam Metz,17,73
+117,Wayne Fay,3,29
+118,Mr. Willard Dicki,17,98
+119,Marc Hagenes,16,82
+120,Alex Bayer,13,11
+121,Dr. Nathaniel Maggio,5,85
+122,Gladys Rempel,12,46
+123,Ida Gleichner,10,59
+124,Cedric Blick,18,44
+125,Florence Kreiger,21,74
+126,Dr. Tami Abbott,15,39
+127,Monica Marks,12,51
+128,Lucille Moen,17,25
+129,Fernando Graham,16,52
+130,Brendan Schuppe,13,23
+131,Lester Ullrich PhD,17,52
+132,Charlotte Vandervort,8,24
+133,Kristy Glover,20,21
+134,Ira Ruecker,14,4
+135,Jacqueline Windler,10,57
+136,Marcia McClure,22,26
+137,Johnnie Grady,17,33
+138,Mr. Darlene Cole,17,88
+139,Tanya Schulist,15,18
+140,Warren Harvey,19,44
+141,Kay Sauer,9,54
+142,Emilio Roberts,6,71
+143,Terrence Dietrich,20,22
+144,Johnathan Parker,4,6
+145,Lynette Lakin,5,2
+146,Fernando Kuhlman,21,55
+147,Shaun Hilll,11,92
+148,Anita Rodriguez Jr.,11,85
+149,Jane Cummerata,15,30
+150,Lewis Medhurst,18,87
+151,Claire Berge,13,24
+152,Claude Daugherty,17,75
+153,Erik Murphy,20,44
+154,Geraldine Kreiger V,13,83
+155,Elisa Hirthe MD,20,8
+156,Allan Flatley,15,84
+157,Brandon Kunde II,14,22
+158,Terry Rowe II,17,67
+159,Gabriel Bogisich,21,78
+160,Carol Bayer Sr.,6,26
+161,Ruben Dooley,18,57
+162,Kate Grant,14,20
+163,Mercedes Runolfsdottir,5,12
+164,Patti Reinger,5,46
+165,Dave Fahey,17,9
+166,Angel Heathcote IV,19,100
+167,Leigh Glover,10,87
+168,Sophie Stanton,16,34
+169,Wm Jerde,6,67
+170,Preston Heaney,11,19
+171,Claude Toy,11,83
+172,Janice Schamberger,4,60
+173,Sandra Mraz,4,100
+174,Dora Bechtelar,20,50
+175,Winston Lind,7,83
+176,Maryann Cremin Sr.,15,9
+177,Lonnie Christiansen,15,53
+178,William Deckow,12,80
+179,Tanya Littel,21,4
+180,Tommie Prohaska,16,60
+181,Salvador Hilpert,14,67
+182,Angel Stoltenberg DDS,10,2
+183,Jeffery Greenfelder DDS,12,47
+184,Dallas Kunze,5,2
+185,Henrietta Reichert,6,94
+186,Shannon Mayer III,17,94
+187,Mrs. Lena Gottlieb,20,79
+188,Sherman Bosco,5,66
+189,Joe Schmeler,7,93
+190,Wilfred Harvey,17,42
+191,Ada Altenwerth,7,56
+192,Tim Weber,11,46
+193,Miss Ramiro McLaughlin,22,54
+194,Kurt Bradtke,4,12
+195,Holly Batz MD,2,85
+196,Kate Reilly DDS,4,96
+197,Clifton Halvorson,21,34
+198,Hope Berge,4,3
+199,Heidi Waelchi,9,55
+200,Wanda Keeling,12,22
+201,Julia Considine,22,55
+202,Jan Harris,4,53
+203,Natalie Rippin,6,75
+204,Marjorie Bode,6,42
+205,Mandy Hilll,22,41
+206,Ginger Carroll,16,92
+207,Ismael Purdy,19,14
+208,Meredith Ratke,2,64
+209,Mr. Julius Ritchie,7,76
+210,Lewis Sipes,7,81
+211,Ms. Mindy Wilderman,11,10
+212,Olive Ritchie,18,66
+213,Byron Schumm,14,67
+214,Terrell Kling I,15,46
+215,Shannon Hand,14,23
+216,Alonzo McLaughlin,11,54
+217,Jamie Fay,11,53
+218,Carole Veum,2,76
+219,Mrs. Nicole Schamberger,5,35
+220,Rosemary Walter,2,89
+221,Tracy Kling,18,26
+222,Jackie Kuhlman PhD,18,70
+223,Brent Kling,21,85
+224,Mr. Caroline Leannon,8,6
+225,Tyler Orn MD,7,15
+226,Wilma Friesen,19,74
+227,Malcolm Lakin,7,18
+228,Ronnie Abbott,12,89
+229,Erika Jacobs III,20,95
+230,Bernadette McLaughlin,17,98
+231,Janie Koelpin,12,80
+232,Maggie Howe,21,20
+233,Darrel Leuschke,7,31
+234,Simon Kemmer,19,34
+235,Mary Mohr,5,2
+236,Wendell Russel,14,8
+237,Julie Waters III,22,40
+238,Garrett Jast,6,62
+239,Kimberly Mohr,22,10
+240,Owen O'Kon,14,93
+241,Jermaine Johnson,13,9
+242,Willie McDermott,20,2
+243,Vickie Thiel,17,36
+244,Adam Terry,21,64
+245,Robin Roob,2,98
+246,Lucas Morissette,21,60
+247,Martin Mills Jr.,20,62
+248,Elena Windler,11,92
+249,Miss Mark Kirlin,17,42
+250,Joy Abbott MD,7,7
+251,Celia Renner,22,75
+252,Javier Beahan,17,64
+253,Brad Abbott,5,7
+254,Jay Stokes,10,9
+255,Warren Swaniawski,17,84
+256,Caroline Reynolds,20,81
+257,Charles Abernathy,4,27
+258,Lyle White,7,86
+259,Ivan Reichel,21,59
+260,Emilio Effertz,11,16
+261,Tracy Parker,5,25
+262,Nellie Stark,13,94
+263,Jesus Greenholt,21,81
+264,Bruce Lynch,9,43
+265,Bernice Gusikowski,6,24
+266,Clark Tremblay,10,75
+267,Ann Weimann PhD,2,28
+268,Dr. Tommie Mann,4,35
+269,Erick Abbott,12,48
+270,Luther Abshire,2,38
+271,Mary Mertz I,20,34
+272,Shannon Hills,10,50
+273,Delores Schimmel,20,47
+274,Willard Gislason,6,46
+275,Milton Hayes,22,25
+276,Miranda Bashirian,12,34
+277,Agnes O'Reilly IV,14,11
+278,Tyrone Orn,19,95
+279,Jonathon Blanda,9,39
+280,Shaun Rempel,13,22
+281,Dr. Bethany Davis,17,7
+282,Angie Wiegand,4,72
+283,Bert Satterfield,20,71
+284,Yvette Lynch III,17,19
+285,Tyrone Davis III,22,60
+286,Veronica Reichel,5,7
+287,Stacey Schuppe PhD,11,58
+288,Bryan Boyle PhD,7,65
+289,Kerry Bruen,4,8
+290,Lydia Lueilwitz,21,72
+291,Owen Mitchell,10,21
+292,Mike Crooks,11,88
+293,Anne Mills,6,53
+294,Gerald Hilpert,12,21
+295,Felix Kuhlman,22,22
+296,Terence Heathcote,20,59
+297,James Mitchell,21,31
+298,Mr. Darrin Walter,18,55
+299,Robin Vandervort,12,93
+300,Ms. Jennie Little,7,54
+301,Miguel Dare,21,12
+302,Cedric Huel,6,73
+303,Cornelius D'Amore,19,30
+304,Salvador Hand,7,2
+305,Yvette Gislason,9,89
+306,Ramiro Koss,10,9
+307,Ramon Lindgren DDS,16,89
+308,Maurice Bayer,2,73
+309,Josh King,13,15
+310,Luther Rowe,10,27
+311,Melvin Wehner,9,84
+312,Guy Bashirian IV,11,97
+313,Jeff Predovic,17,79
+314,Kellie Wuckert,8,24
+315,Alberto Cummerata,18,15
+316,Margie Sawayn,17,56
+317,Dr. Antonia Abbott,19,37
+318,Doug Senger DDS,3,83
+319,Craig Hackett,8,86
+320,Connie Block,22,43
+321,Josefina Kuvalis,14,37
+322,Jeanne Hermiston,13,69
+323,Leona Price,22,45
+324,Jerome Kerluke,20,36
+325,Justin Johnston,10,28
+326,Kathy Langworth,9,22
+327,Mrs. Dwight Rath,8,40
+328,Regina Dickens,5,2
+329,Elias Jenkins,21,44
+330,Ismael Bode,10,46
+331,Irving Harris,19,69
+332,Penny Adams,18,56
+333,Ana Dach,2,43
+334,Steven Kuhn,16,93
+335,Doyle Bashirian,13,65
+336,Arnold Mann,18,22
+337,Ms. Gerald Hane,18,69
+338,Daniel Mann,11,22
+339,Mr. Eileen King,13,51
+340,Shawna Aufderhar,15,23
+341,Kelvin Lowe,19,92
+342,Gail McKenzie,21,95
+343,Johnnie Hamill,4,88
+344,Guy Gerhold III,16,20
+345,Tammy Kozey,14,5
+346,Lawrence Jakubowski,13,49
+347,Mrs. Gary Emard,10,87
+348,Antonia Larkin,13,43
+349,Tabitha Jones,4,11
+350,Monica Tromp III,21,83
+351,Simon Ondricka,9,68
+352,Dr. Felix Franey,18,25
+353,Kelley Franey V,21,79
+354,Hugo Franey,19,70
+355,Allen Schimmel,7,48
+356,Andy Wolf,3,60
+357,Edna Bailey,16,14
+358,Jody Waters,15,94
+359,Ivan Hills,21,97
+360,Santos Gerlach,14,46
+361,Eileen Wyman,20,78
+362,Milton Stroman,21,74
+363,Levi Bergnaum,11,62
+364,Randal Tremblay,3,32
+365,Kate Mueller,18,38
+366,Gwendolyn Hermiston,7,31
+367,Antonio Kirlin,3,32
+368,Vera Leffler,6,79
+369,Doug Haley,13,23
+370,Mr. Ramiro Conroy,17,52
+371,Damon Senger,18,68
+372,Ramon Franecki,5,25
+373,Salvador Schulist,16,8
+374,Yolanda Fahey,5,50
+375,Sean Goodwin,18,64
+376,Brandy Champlin,3,44
+377,Mathew Schmeler Sr.,18,83
+378,Valerie Prosacco,19,73
+379,Patricia Hane,22,88
+380,Lynda Parisian,4,14
+381,Hannah Walker,6,29
+382,Pauline Williamson,8,57
+383,Arnold Braun,8,100
+384,Delbert Hyatt,10,60
+385,Earl Price,10,45
+386,Gene Jones,14,15
+387,Ervin Bechtelar PhD,12,87
+388,Christian Fritsch,12,6
+389,Jeffery Borer,11,77
+390,Louis Will,6,43
+391,Calvin Heathcote,16,9
+392,Luz Ullrich,9,39
+393,Juan Stamm,4,38
+394,Dustin Kiehn,14,18
+395,Ross Rice,8,69
+396,Grace Nader,13,52
+397,Fredrick Altenwerth,17,89
+398,Byron Barrows Sr.,17,67
+399,Dustin Baumbach,12,78
+400,Brenda Kshlerin,12,100
+401,Mr. Verna Casper,19,37
+402,May Johnston,20,6
+403,Dr. Jason Morissette,4,11
+404,Martha Reynolds II,13,93
+405,Meghan Paucek,21,78
+406,Miss Marion Weimann,14,88
+407,Karen Funk,11,84
+408,Vickie Green,18,92
+409,Rickey Hermiston,21,18
+410,Jane Gerlach,21,76
+411,Sammy Lindgren,21,92
+412,Blanca Morar,17,65
+413,Esther Zieme,17,22
+414,Emily Kassulke,12,41
+415,Lela Little,20,3
+416,Francis Mueller,5,14
+417,Eric Goodwin,10,94
+418,Ms. Olive O'Conner,20,82
+419,Angela Wisozk,21,15
+420,Freddie Langworth,20,73
+421,Miss Shannon Gaylord,16,25
+422,Marguerite Kihn,9,50
+423,Elmer Roberts,7,100
+424,Miss Zachary Larson,16,99
+425,Phil Carter,10,32
+426,Doreen Mertz,4,98
+427,Juanita Hagenes,22,29
+428,Hattie Bayer,6,58
+429,Suzanne Pagac,13,92
+430,Mrs. Raul Wuckert,4,54
+431,Karla Champlin,17,18
+432,Billie Kreiger,21,89
+433,Miss Roberta Streich,18,77
+434,Andrew Blick,2,42
+435,Isaac Marquardt,16,31
+436,Lana Hegmann II,13,73
+437,Muriel Gaylord,21,84
+438,Lora Goodwin,17,27
+439,Brian Hauck,9,89
+440,Gwen Auer,17,2
+441,Debbie Willms,4,80
+442,Desiree Brakus,15,98
+443,Marilyn Bogan,13,61
+444,Ms. Inez Carter,16,57
+445,Darrel Mitchell III,7,70
+446,Santiago Batz,14,37
+447,Eunice Runte,21,15
+448,Guillermo Torp,21,64
+449,Ervin Blick,3,13
+450,Tanya Watsica,6,68
+451,Alexandra Kiehn,8,79
+452,Lana Stracke,15,83
+453,Ollie Ryan,19,93
+454,Douglas Koss Sr.,18,98
+455,Dominick Kohler,11,87
+456,Gretchen Schaden II,11,52
+457,Travis MacGyver,6,91
+458,Percy Tillman,10,100
+459,Reginald Rippin,8,10
+460,Bernard Zieme II,11,10
+461,Mrs. Ivan Koss,5,18
+462,Cedric Beer,14,92
+463,Randall Kirlin,7,50
+464,Perry Pagac,2,50
+465,Clara Swaniawski,22,49
+466,Dr. Gregory Durgan,2,91
+467,Freda Huels V,3,27
+468,Ernest Carter,4,70
+469,Heidi Satterfield,16,45
+470,Thelma Walsh,5,48
+471,Angie Beer DDS,15,23
+472,Terence Robel,16,61
+473,Mattie Kuphal PhD,5,85
+474,Woodrow Cartwright,10,89
+475,Miss Misty Konopelski,8,74
+476,Ben Price,22,5
+477,Kristine Pouros,17,70
+478,Felix Herzog DDS,21,21
+479,Archie Stiedemann,18,4
+480,Chester Kirlin,22,32
+481,Bernice Stracke,11,12
+482,Domingo Okuneva,19,84
+483,Vickie Hamill,4,100
+484,Dr. Nancy Kiehn,20,52
+485,Pat Fahey,13,62
+486,Alison Medhurst DVM,3,72
+487,Billy Renner,6,95
+488,Phil Tromp,5,10
+489,Dolores White,11,38
+490,Dolores Sporer DDS,15,17
+491,Heidi Schiller DDS,5,32
+492,Irving Kuhn,9,60
+493,Dustin Keebler,16,87
+494,Kathy Brekke,13,70
+495,Vernon Kemmer,20,47
+496,Doug Skiles,20,20
+497,Nora Schumm,14,26
+498,Jamie Wehner,10,34
+499,Mr. Janie McCullough,3,72
+500,Eddie Senger III,14,52
+501,Elena Miller,13,47
+502,Courtney Huel I,11,85
+503,Fernando Muller,21,96
+504,Garry Von,3,54
+505,Dr. Iris Kihn,13,44
+506,Clay Jacobson,19,13
+507,Vicki Bogisich III,11,20
+508,Darlene Pouros,16,15
+509,Felix Shanahan,15,42
+510,Ted Funk,14,89
+511,Blanche Rempel,5,89
+512,Elsa Stanton,9,51
+513,Willie Kuhic,16,100
+514,Lyle Dietrich,22,24
+515,Earnest Lebsack,9,61
+516,Elisa Simonis,18,77
+517,Alex Zieme,15,66
+518,Wendy Reichert,7,71
+519,Harriet Graham,19,72
+520,Mindy Kessler,7,51
+521,Wendell Lesch,21,24
+522,Gilbert Hayes,10,96
+523,Terence Ankunding,2,53
+524,Clyde Luettgen,14,93
+525,Dallas Jenkins,21,17
+526,Charlotte Huels MD,3,65
+527,Roman Heidenreich,17,69
+528,Jody Konopelski,15,37
+529,Dwight Pfeffer,7,37
+530,Essie McGlynn,18,76
+531,Travis Reichel,6,80
+532,Derrick McClure II,5,91
+533,Dana Wiza,13,97
+534,Amber Metz,18,35
+535,Joel O'Reilly,2,36
+536,Harvey Ratke,21,98
+537,Johanna Dicki,3,70
+538,Darrel Hegmann IV,16,17
+539,Miss Tina Cole,15,69
+540,Laura Powlowski,17,62
+541,Freda Powlowski DVM,5,9
+542,Tyrone Jakubowski,6,57
+543,Marion Franey,8,85
+544,Ira Mueller,18,77
+545,Myrtle Lakin,3,65
+546,Rosalie Will,3,18
+547,Homer Dickinson,7,75
+548,Ruby Lynch III,22,95
+549,Juan Dietrich,22,22
+550,Dan Tromp,18,62
+551,Sam Lindgren,8,87
+552,Curtis Schowalter,12,90
+553,Fred Zboncak,5,20
+554,Marcia Cole,7,31
+555,Elijah Bauch,22,65
+556,Joanna Schroeder V,18,64
+557,Marcia Schowalter,9,88
+558,Homer Ondricka,6,4
+559,Josephine Keebler,21,96
+560,Roberta Koelpin,6,45
+561,Hattie Prosacco,16,45
+562,Earnest Langosh,15,46
+563,Ollie Kassulke,22,9
+564,Moses Flatley,13,15
+565,Sophie Spencer,6,90
+566,Keith Ryan,5,76
+567,Betsy Gaylord,3,91
+568,Cassandra Wintheiser,10,3
+569,Sarah Connelly,18,34
+570,Tommy Nienow,17,84
+571,Clifton Paucek,7,18
+572,Elijah Walker,16,80
+573,Ronnie Larson,4,6
+574,Ken Little DDS,15,91
+575,Kelli Pfeffer,2,45
+576,Yolanda DuBuque,8,50
+577,Miss Ruben Orn,11,12
+578,Miriam Brekke,13,90
+579,Floyd Huel,7,76
+580,Dominick Beier,11,6
+581,Marco Veum,3,51
+582,Cecelia Grant,15,94
+583,Myrtle Fay,20,82
+584,Glenn Volkman,2,68
+585,Dustin Predovic,7,91
+586,Stacey Rogahn,20,99
+587,Muriel O'Conner,3,42
+588,Marty Morissette,13,100
+589,Dianna Watsica,6,51
+590,Pam Connelly,12,72
+591,Vicki Bartoletti,5,6
+592,Eva Bartoletti,20,11
+593,Jessie Hauck,12,65
+594,Leland Ratke,14,81
+595,Melanie Kutch,17,74
+596,Vera Mills,22,26
+597,Wilma Kuhlman,12,82
+598,Nancy Kuhn,22,36
+599,Julio Weissnat,19,63
+600,Carrie Williamson,18,61
+601,Ms. Santiago Hintz,5,74
+602,Malcolm Orn,3,10
+603,Jean McKenzie,2,61
+604,Annie Schowalter,13,99
+605,Danny Roob,16,29
+606,Cory Heaney,11,87
+607,Floyd Farrell,9,18
+608,Jackie Howe,9,29
+609,Kate Halvorson,12,10
+610,Rita Bailey PhD,17,94
+611,Esther Cremin,21,34
+612,Francis Runolfsson,22,99
+613,Joyce Casper Jr.,5,76
+614,Sandy Leannon,20,88
+615,Constance Keebler,12,52
+616,Salvatore Collins,2,55
+617,Lauren Rempel,22,68
+618,Jenny Mante,22,29
+619,Rodolfo Rogahn,21,3
+620,Mr. Opal Schneider,6,27
+621,Mr. Rudolph Lueilwitz,6,96
+622,Joanna Hauck,2,75
+623,Mr. Eugene Jakubowski,16,59
+624,Alyssa Nicolas,3,33
+625,Sam Jakubowski,17,25
+626,Dominick Von,19,72
+627,Sherry Ward,4,17
+628,Judith Schmidt,4,95
+629,Frederick Leannon,19,15
+630,Muriel Gleason,6,92
+631,Wesley Volkman,3,80
+632,Eva Funk V,16,71
+633,Danielle Fritsch,11,32
+634,Miss Cathy Kuphal,2,48
+635,Jeffery Bruen,13,6
+636,Dr. Gerald Green,4,41
+637,Jeanne Douglas,8,76
+638,Kristin Daugherty,6,3
+639,Mr. Wilma Koelpin,11,32
+640,Alice Schaden Jr.,14,100
+641,Daniel Spinka,9,62
+642,Beverly Watsica,20,66
+643,Jeff Halvorson,10,5
+644,Lorene Osinski,12,54
+645,Ms. Casey Walker,2,44
+646,Andy Jast,4,4
+647,Hattie Bins,19,66
+648,Miss Jamie Quitzon,10,69
+649,Cristina Kozey,7,54
+650,Horace Kautzer,16,68
+651,Cecilia Smitham,2,86
+652,Ellen Hand,13,42
+653,Jonathon Crona I,13,24
+654,Jody Mraz,12,70
+655,Milton Veum PhD,21,16
+656,Gwen Weber,13,65
+657,Theodore Lubowitz,12,94
+658,Robin VonRueden PhD,11,97
+659,Tonya Hermann,8,83
+660,Johanna Towne,8,40
+661,Santiago Ferry,15,36
+662,Clifton Jones,8,20
+663,Sara Nolan,13,9
+664,Ernesto Kautzer,5,49
+665,Forrest Stehr,7,75
+666,Dr. Tracy Jacobs,22,20
+667,Winston Collins,19,79
+668,Shelia Quitzon,8,39
+669,Cristina Kuphal,9,97
+670,Orville Trantow,15,93
+671,Harry Pfeffer,20,69
+672,Nettie Russel,15,38
+673,Cameron Luettgen,15,82
+674,Wanda Zboncak,4,27
+675,Casey Walter,11,29
+676,Dr. Gail Bergnaum,8,8
+677,Krystal Doyle,20,43
+678,Ian O'Conner,4,13
+679,Olivia Welch,13,73
+680,Eva Schmitt IV,21,21
+681,Fernando Lubowitz Sr.,13,84
+682,Harry Rolfson,11,84
+683,Gerardo Collins,8,39
+684,Ms. Sherri Hagenes,20,72
+685,Mr. Isaac Ryan,3,60
+686,Claire Harvey,6,43
+687,Kim Grimes,12,98
+688,Miss Lula Wisozk,2,36
+689,Carlton Hermiston,22,31
+690,Jack Runolfsdottir,4,14
+691,Mr. Joyce Rath,14,48
+692,Claudia Barton,22,65
+693,Pat Kilback,16,11
+694,Felicia Hagenes,8,72
+695,Janis Kirlin,10,11
+696,Cesar Hodkiewicz,15,29
+697,Clarence Medhurst,4,69
+698,Jeffrey Ullrich IV,10,63
+699,Lorraine Considine,20,2
+700,Terence Lowe,20,90
+701,Mr. Diana MacGyver,6,62
+702,Terrance Dickens,14,19
+703,Clinton Kautzer,9,82
+704,Betty Lowe,21,40
+705,Leah Haag,10,35
+706,Karl Hills,2,72
+707,Luther Fadel,5,100
+708,Bernard Nolan,7,88
+709,Angelo Russel,14,71
+710,Bob Swift,14,67
+711,Jeff Hirthe,10,10
+712,Cecilia Ledner III,10,82
+713,Bernard Fritsch,14,61
+714,Sharon Stehr,17,37
+715,Inez Bernhard,10,93
+716,Wade Kassulke,7,16
+717,Shirley Stracke IV,9,72
+718,Devin Franecki V,21,90
+719,Doyle Hilll,9,48
+720,Kimberly Hermann,19,20
+721,Katrina Nikolaus,21,8
+722,Lynn Effertz PhD,15,79
+723,Susan Kutch,12,51
+724,Isabel Heaney,14,88
+725,Gwendolyn Kirlin,11,6
+726,Kelly VonRueden,20,57
+727,Carl Zieme,14,5
+728,Mrs. Charlotte Ruecker,8,37
+729,Tanya Quigley,7,5
+730,Wilma Gerhold,21,28
+731,Patsy Jakubowski,11,89
+732,Patty Schaefer,5,24
+733,Claude Turner DVM,8,41
+734,May Donnelly,4,78
+735,Pete Ryan III,22,9
+736,Dorothy Stark,20,25
+737,Garry Fadel,18,70
+738,Stuart Runolfsdottir,13,27
+739,Ken O'Keefe,13,45
+740,Jerry Lehner,4,25
+741,Dr. Jeremy Walsh,19,57
+742,Eunice Ruecker,21,14
+743,Miss Kim Medhurst,16,22
+744,Joy Homenick,22,53
+745,Isabel Wiza,14,24
+746,Ms. Simon Bashirian,5,46
+747,Barbara Abernathy,4,6
+748,Dave Abbott,19,39
+749,Chris Purdy,15,78
+750,Olive Kerluke,15,99
+751,Jodi Hagenes IV,16,91
+752,Chad Schoen,5,54
+753,Jessica Wiza,18,40
+754,Rosemarie Conroy,14,71
+755,Mr. Margie Howell,12,93
+756,Jodi Goodwin,22,74
+757,Hector Bins,5,6
+758,Evan Hintz,8,21
+759,Elena Ritchie,2,84
+760,Dora Strosin,2,57
+761,Lamar Heller,4,39
+762,Celia Beer,7,34
+763,Genevieve Koelpin,22,77
+764,Nancy Emard,14,61
+765,Deborah Berge,20,95
+766,Olga Rosenbaum,20,89
+767,Ms. Carla Schmidt,9,75
+768,Daisy Block,13,88
+769,Bob O'Kon,2,80
+770,Minnie Maggio,21,52
+771,Florence Krajcik,4,22
+772,Terrell Beier,9,82
+773,Freddie Green,10,65
+774,Laura Will,17,39
+775,Gilberto DuBuque,22,58
+776,Juan Harvey,3,65
+777,Jaime Skiles,9,34
+778,Marsha Mann,16,63
+779,Sammy Smith,17,87
+780,Tammy Ferry,17,5
+781,Raquel Boyer V,11,5
+782,Tricia Olson,9,86
+783,Sam Reynolds,6,18
+784,Clark Parker,7,40
+785,Merle Kohler,11,96
+786,Dennis Corkery,22,9
+787,Andres Hirthe,6,10
+788,Antonio Harris Jr.,22,79
+789,Dr. Susan Fritsch,14,19
+790,Micheal Mohr,9,61
+791,Raymond Koepp,17,91
+792,Alison Turcotte,4,32
+793,Elizabeth Keebler,13,61
+794,Troy Bartell II,20,39
+795,Monique Towne,16,94
+796,Philip Wisoky,14,79
+797,Sonya Blanda I,9,9
+798,Gloria Kessler,5,39
+799,Clarence Nolan,21,74
+800,Dwight Lowe,8,61
+801,Beatrice Carroll,10,14
+802,Christy Abernathy,22,33
+803,Terrell O'Conner,17,38
+804,Noah Harber,12,34
+805,Velma Beier,8,28
+806,Doreen Lemke I,16,99
+807,Jacob Nolan,22,67
+808,Marco Dickens,11,31
+809,Malcolm Wiegand DDS,4,90
+810,Jody Kertzmann,3,6
+811,Miss Devin Oberbrunner,9,3
+812,Bradford Smith,5,94
+813,Ginger Wilkinson,22,20
+814,Curtis Johnson,5,56
+815,Tommie Feil,7,43
+816,Rene Mosciski,5,20
+817,Chester Ernser,21,28
+818,Winston Gerhold,3,84
+819,Sheri Heathcote,16,83
+820,Amanda Olson PhD,20,67
+821,Angie Bernhard,11,23
+822,Fred Johnston,9,95
+823,Travis Ward,14,67
+824,Carlos Nicolas,11,79
+825,Chester Cremin,10,41
+826,Eunice Gusikowski,2,75
+827,Connie Lynch,8,59
+828,Miss Philip Abshire,5,58
+829,Francis McDermott,20,25
+830,Otis Steuber,21,16
+831,Carlton Strosin MD,14,70
+832,Wilson Rolfson DVM,7,46
+833,Van Wyman MD,20,83
+834,Leon Rohan,19,90
+835,Linda Koelpin I,22,8
+836,Jonathon Parker PhD,13,14
+837,Melanie Dietrich,3,56
+838,Sophia Christiansen,3,23
+839,Ada Feeney,21,63
+840,Adam Rohan,15,42
+841,Natasha Orn,14,41
+842,Marcella Murazik,6,8
+843,Gwen Mayer,20,4
+844,Jill Christiansen,6,37
+845,Brandi Feil,4,89
+846,Carroll Botsford,15,74
+847,Olive Cronin,18,33
+848,Benjamin Wintheiser,20,78
+849,Lola Schulist DVM,17,81
+850,Gwen Leuschke,20,23
+851,Sean Davis,18,39
+852,Reginald Kassulke,9,37
+853,Hilda Lubowitz,15,71
+854,Mrs. Rosalie Gerlach,5,73
+855,Alfred Baumbach,7,21
+856,Amanda Kris IV,20,66
+857,Russell Mante,16,54
+858,Tom Considine,6,98
+859,Cora Gutmann,16,21
+860,Frances Schiller,20,67
+861,Tami Hand,7,42
+862,Rosemary Cartwright,19,31
+863,Sheila Stokes,21,31
+864,Wilfred Heller,3,3
+865,Steven Pfeffer,18,32
+866,Harriet Stark,12,100
+867,Melvin Breitenberg,10,67
+868,Jim Cassin,12,23
+869,Dr. Teresa Huels,12,32
+870,Dr. Luke Kuhic,9,46
+871,Darrel Stoltenberg,3,26
+872,Elaine Brown,15,52
+873,Arturo Moore,5,28
+874,Cornelius Lueilwitz,9,71
+875,Angel McCullough,7,18
+876,Ana Sauer,13,34
+877,Lorraine Koch,10,22
+878,Claudia Hudson,16,100
+879,Genevieve Gislason,19,47
+880,Kenneth Pouros,2,36
+881,Gerardo Balistreri,4,84
+882,Sheryl Ward DVM,19,82
+883,Lynn Okuneva,18,29
+884,Lillian Satterfield Jr.,6,41
+885,Priscilla Gerhold,11,89
+886,Dr. Sophie Runolfsdottir,6,67
+887,Naomi Larson,3,45
+888,Erin Lang,13,51
+889,Rolando Schultz,21,86
+890,Clifton Leannon,22,26
+891,Grace Doyle,5,10
+892,Joey Lubowitz,4,79
+893,Miss Justin Auer,11,43
+894,Terry Hoeger,15,94
+895,Gilberto Huel,5,46
+896,Erik MacGyver,7,56
+897,Clint Lakin,12,56
+898,Claudia Kunze,11,41
+899,Norma Hermiston Jr.,18,100
+900,Brittany Wilkinson,9,27
+901,Clifton Hammes,9,52
+902,Monique Konopelski,4,45
+903,Joel Erdman,13,17
+904,Patsy Torp,15,34
+905,Rafael Dickens,22,96
+906,Mr. Patti Schowalter,14,36
+907,Jake Carter,5,62
+908,Derrick Morissette,12,69
+909,Joanne Jacobi,11,53
+910,Dustin West,13,82
+911,Krystal Johnston,5,31
+912,Kay Thiel,17,57
+913,Dr. Erika Bernhard,20,84
+914,Benjamin Schneider,5,79
+915,Gustavo Yost,5,56
+916,Mr. Jimmy Treutel,16,6
+917,Felicia Littel,8,91
+918,Amanda Smitham,3,82
+919,Stephen Gutmann,10,81
+920,Bob Jerde,8,18
+921,Mindy Trantow,12,50
+922,Margie Hane,5,12
+923,Paula Kling I,3,79
+924,Sheila Muller,22,50
+925,Pat Bruen,14,97
+926,Roberto Dickinson,15,35
+927,Miss Julie White,18,56
+928,William Denesik,6,2
+929,Sheri Hegmann,8,21
+930,Leah Ward,16,35
+931,Sonia Fay,8,75
+932,Constance Wilderman,16,53
+933,Ms. Sophie Dooley,20,57
+934,Mabel Batz,12,21
+935,Marsha Bashirian Sr.,9,88
+936,Raquel Feest,13,81
+937,Mark Bartoletti,17,88
+938,Mr. Erick McLaughlin,21,86
+939,Dr. Teri Lehner,21,21
+940,Gary Conn,16,67
+941,Tamara Ankunding,5,10
+942,Byron Runte,12,58
+943,Miss Jamie Cartwright,9,47
+944,Barbara Wehner V,7,49
+945,Miss Kenneth O'Conner,11,67
+946,Jean Legros,20,64
+947,Dianne Bernhard Jr.,17,60
+948,Kathryn Trantow,11,80
+949,Miss Antonia Thiel,13,8
+950,Tricia Borer,2,24
+951,Marta Schiller,6,22
+952,Alberta Gleichner,19,90
+953,Horace Bruen,4,37
+954,Dwayne Rolfson I,4,82
+955,Lynda Cremin,2,55
+956,Nadine Klocko,15,26
+957,Fernando Graham,18,91
+958,Linda Hodkiewicz,17,59
+959,Sonja Gislason,3,63
+960,Frank Ryan,22,64
+961,Louise Cartwright Sr.,3,44
+962,Ellis Wolff,21,65
+963,Karla Mills,13,39
+964,Shelley Howell,12,90
+965,Max Homenick,5,93
+966,Rafael Ferry,12,14
+967,Jose Kreiger,2,56
+968,Frank Schuppe,6,45
+969,Moses Kemmer,6,64
+970,Clayton Johnston,4,20
+971,Dan Legros,2,5
+972,Ms. Lee Robel,11,45
+973,Mario Treutel,13,41
+974,Rosalie Jacobson,9,82
+975,Terry Murphy,17,62
+976,Rachel Hills,5,24
+977,Joe Bogan,17,54
+978,Mr. Deborah Bernhard,17,98
+979,Joyce Franecki,2,2
+980,Daniel Hilll,18,98
+981,Mr. Tony Runolfsson,2,20
+982,Seth Rippin,13,69
+983,Earnest Botsford,17,11
+984,Dixie Balistreri,21,71
+985,Rachel Medhurst,20,37
+986,Angelina Parisian III,18,62
+987,Drew Harvey,20,79
+988,Bertha Bins,18,99
+989,Louise West PhD,9,60
+990,Cindy Lynch Sr.,9,39
+991,Dr. Christy Gleason,12,34
+992,Margaret Borer,12,12
+993,Kathryn Mante,19,30
+994,Estelle Medhurst DDS,6,78
+995,Edwin Sawayn,5,10
+996,Guadalupe Powlowski,7,4
+997,Glenn Wilkinson,11,35
+998,Gene Yundt,16,32
+999,Lorene Berge,13,5
+1000,Shawna Powlowski,19,8
